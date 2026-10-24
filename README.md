@@ -17,3 +17,7 @@ Once the download is verified, choose **Install update**. If Android asks, allow
 Existing versions need a one-time manual installation of 1.1.0 or later to gain this updater. Future updates must use the same package ID and signing key.
 
 Only stable releases with a universal `Forge-vX.Y.Z.apk` asset are offered in the app. Older releases remain available here.
+
+## Try sample workouts
+
+From version 1.3.8, open **You → Test the app → Load sample workouts** to practice with dummy journal entries, charts and an unfinished workout. Sample edits save locally. **Reset sample workouts** reloads fresh examples, and **Exit sample data** restores your original history, preferences, exercise lists and unfinished session. Cloud sync and account actions pause while samples are loaded.
